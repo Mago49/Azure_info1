@@ -25,3 +25,4 @@ Cloud management refers to how you manage your cloud environment and resources. 
 * Using a command line interface.
 * Using APIs.
 * Using Power Shell.
+* O jonas é mum retardado.
